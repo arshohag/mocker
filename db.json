@@ -11,4 +11,7 @@
   "profile": {
     "name": "typicode"
   }
+  "customerRecharge": {
+    "success": "<?xml version='1.0'?><COMMAND><TYPE>EXRCTRFRESP</TYPE><TXNSTATUS>Transaction Status</TXNSTATUS><DATE>05/02/2020 18:20:25</DATE><EXTREFNUM>5e593ae338a82</EXTREFNUM><TXNID>R080912.1212.1234</TXNID><MESSAGE>Transaction Message</MESSAGE></COMMAND>"
+  }
 }
